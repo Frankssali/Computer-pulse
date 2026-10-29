@@ -1,17 +1,17 @@
 ﻿====================================================
            COMPUTER PULSE - HARDWARE & NETWORK LOG   
 ====================================================
-Timestamp          : 2026-10-25 20:44:23
+Timestamp          : 2026-10-29 20:47:08
 Active Processes   : 214 running processes
-CPU Utilization    : 4% load
+CPU Utilization    : 7% load
 ----------------------------------------------------
 Top 3 Memory-Consuming Processes:
 
 Name               RAM_MB
 ----               ------
-Grammarly.Desktop  339.65
-Memory Compression 299.61
-chrome             254.84
+Memory Compression 465.92
+Grammarly.Desktop  233.29
+chrome              227.2
 
 
 
@@ -20,13 +20,13 @@ Disk Storage Breakdown:
 
 DeviceID FreeGB TotalGB
 -------- ------ -------
-C:          7.9   84.47
+C:         7.79   84.47
 D:       139.79   153.3
 
 
 
 ----------------------------------------------------
 Network Diagnostics:
-Active IPv4 Address: 10.16.2.227
+Active IPv4 Address: 10.16.2.200
 Internet Latency   :  ms (Target: 8.8.8.8)
 ====================================================
